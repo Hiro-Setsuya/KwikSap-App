@@ -2,10 +2,10 @@
 
 **AI-powered Speech-to-Text Communication App for Deaf Users**
 
-> **BS Information Technology Capstone Project**  
-> Polytechnic University of the Philippines – Sto. Tomas Campus
+> **Bachelor of Science in Information Technology (BSIT) Capstone Project**  
+> Polytechnic University of the Philippines – Sto. Tomas Campus · 2026
 
-KwikSap is an accessibility-focused Android application that transforms spoken conversations into real-time text, empowering Deaf and hard-of-hearing individuals to communicate more naturally. Built with Flutter, it integrates speech recognition, emotion context detection, and voice recognition in a single mobile experience.
+KwikSap is an accessibility-focused Android application that transforms spoken conversations into real-time text, empowering Deaf and hard-of-hearing individuals to communicate more naturally. Built with Flutter, it integrates speech recognition, emotion context detection, and voice recognition into a single mobile experience.
 
 > **Note:** This public repository is for APK distribution only. The source code is maintained in a private repository.
 
@@ -15,7 +15,7 @@ KwikSap is an accessibility-focused Android application that transforms spoken c
 
 Download the latest Android APK from the **Releases** section of this repository.
 
-**Latest Version:** v1.0.0
+**Latest Version:** `v1.0.0`
 
 ---
 
@@ -23,7 +23,7 @@ Download the latest Android APK from the **Releases** section of this repository
 
 - 🎙️ **Real-time Speech-to-Text** — Instantly converts spoken conversations into readable text.
 - 🌐 **English & Filipino Support** — Recognizes speech in both English and Tagalog.
-- 😊 **Emotion Context Detection** — Detects emotional tone (Happy, Sad, Angry, and Neutral) to provide meaningful conversation context.
+- 😊 **Emotion Context Detection** — Detects emotional tone (Happy, Sad, Angry, and Neutral) to provide meaningful conversational context.
 - 🗣️ **Voice Recognition** — Identifies registered speakers for a more personalized communication experience.
 - ♿ **Accessibility-First Interface** — Designed with readability and ease of use for Deaf and hard-of-hearing users.
 - 📱 **Android Optimized** — Smooth performance across a wide range of Android devices.
@@ -49,7 +49,7 @@ Download the latest Android APK from the **Releases** section of this repository
 
 ## About the Project
 
-KwikSap was developed as a **Bachelor of Science in Information Technology (BSIT) Capstone Project** at the **Polytechnic University of the Philippines – Sto. Tomas Campus**. The project aims to improve communication accessibility for Deaf and hard-of-hearing individuals through AI-powered speech recognition and contextual understanding.
+KwikSap was developed as a **BSIT Capstone Project** at the **Polytechnic University of the Philippines – Sto. Tomas Campus**. The project aims to improve communication accessibility for Deaf and hard-of-hearing individuals through AI-powered speech recognition and contextual understanding.
 
 ---
 
@@ -59,20 +59,19 @@ KwikSap is developed with accessibility and privacy in mind. Audio is processed 
 
 ---
 
-## Developer
+## Developers
 
-Javillo, Adrian Vincent H.
-Lacuarin, Hart Kristiane C.
-Mangabat, Rowel Gabriel V.
-Martinez, Jhon Rayver E.
-Santos, Chino Keonie P.
+- **Javillo, Adrian Vincent H.**
+- **Lacuarin, Hart Kristiane C.**
+- **Mangabat, Rowel Gabriel V.**
+- **Martinez, Jhon Rayver E.**
+- **Santos, Chino Keonie P.**
 
-
-BS Information Technology  
+**BS Information Technology**  
 Polytechnic University of the Philippines – Sto. Tomas Campus
 
 ---
 
 ## Disclaimer
 
-This repository contains **compiled APK releases only** and does **not** include the application's source code. All rights to the source code are reserved by the developer.
+This repository contains **compiled APK releases only** and does **not** include the application's source code. All rights to the source code are reserved by the developers.
